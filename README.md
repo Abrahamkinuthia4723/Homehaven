@@ -1,70 +1,82 @@
-# Getting Started with Create React App
+# Homehaven – House Renting Web Application
+---
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Group Members  
 
-## Available Scripts
+| Name | Registration Number |
+|------|----------------------|
+| Kinuthia Abraham Ngugi   | CT101/G/22378/24 |
+| Mbau Victor Kagumba      | CT101/G/23670/24 | 
+| Lawrence Kigotho Njoroge | CT101/G/21996/24 |
+| Kimani Peter mwangi      | CT101/G/19791/23 |
+| Griffin's Kimotho        | CT101/G/22430/24 |
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## Overview
+**Homehaven** is a modern, responsive web application that makes it easy for users to find and rent houses online.  
+It provides a seamless experience for browsing properties, checking availability, and reading customer reviews — all from one convenient platform.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Objectives
+- Create a user-friendly platform for viewing and renting houses.
+- Allow users to check property details and availability before booking.
+- Display customer reviews to help users make informed decisions.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
+- **Home Page** – popular services we offer and featured houses.  
+- **About Page** – Describes the purpose and mission of Homehaven and the members behind the success of our work. 
+- **Houses Page** – Displays all available houses with brief descriptions.  
+- **House Details Page** – Provides images, description, reviews, and a date selector for availability.  
+- **Contact Page** – Allows users to reach out for inquiries or bookings.  
+- **Customer Reviews** – Each house includes reviews from past users.  
+- **Responsive Navigation** – Easy access to all pages with the Homehaven name visible in the header.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Tech Stack
+| Component | Technology Used |
+|------------|-----------------|
+| **Frontend** | React.js|
+| **Styling** | CSS, bootstrap |
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Installation & Setup.
 
-### `npm run eject`
+### Clone the repository.
+```bash
+git clone https://github.com/Abrahakinuthia4723/homehaven.git
+cd homehaven
+code .
+```
+---
+### Install dependencies.
+```bash
+npm install
+```
+---
+### Run app.
+```bash
+npm start
+```
+---
+## How It Works
+- Users open the Homehaven website.
+- From the navigation bar, they can explore houses listed under the “Houses” section.
+- By selecting a house, users can view its images, description, and reviews.
+- A built-in date picker allows users to check house availability for specific dates.
+- Contact information is provided for inquiries and bookings.
+  
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Deployment.
+- Deployable on Render as a static site.
+  
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Conclusion
+- Homehaven is an innovative and efficient platform for connecting potential tenants with property owners. Its clean design, simplicity, and responsive layout make it accessible across devices.
