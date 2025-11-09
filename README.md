@@ -49,7 +49,7 @@ It provides a seamless experience for browsing properties, checking availability
 
 ### Clone the repository.
 ```bash
-git clone https://github.com/Abrahakinuthia4723/homehaven.git
+git clone git@github.com:Abrahamkinuthia4723/Homehaven.git
 cd homehaven
 code .
 ```
