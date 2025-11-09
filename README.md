@@ -50,7 +50,7 @@ It provides a seamless experience for browsing properties, checking availability
 ### Clone the repository.
 ```bash
 git clone git@github.com:Abrahamkinuthia4723/Homehaven.git
-cd homehaven
+cd Homehaven
 code .
 ```
 ---
